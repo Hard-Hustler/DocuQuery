@@ -36,4 +36,5 @@ if uploaded_file:
 
 # Footer
 st.markdown("---")
-st.markdown("Created by [Vineeth Raja Banala]")
+st.markdown("Created by [Hardik Amarwani]")
+
