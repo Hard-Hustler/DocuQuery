@@ -1,6 +1,6 @@
 # RAG-Based Financial Query System
 
-This repository contains a complete implementation of a **RAG (Retrieval-Augmented Generation)** pipeline designed to extract and analyze financial data from PDFs and provide  answers to user queries. The system combines  NLP techniques with a structured modular architecture for data extraction, preprocessing, embedding generation, vector database creation, and response generation.
+This repository contains a complete implementation of a **RAG (Retrieval-Augmented Generation)** pipeline designed to extract and analyze financial data from PDFs and provide  answers to user queries. The system combines  NLP techniques with a structured, modular architecture for data extraction, preprocessing, embedding generation, vector database creation, and response generation.
 
 ## **Table of Contents**
 
@@ -13,8 +13,6 @@ This repository contains a complete implementation of a **RAG (Retrieval-Augment
 7. [Error Handling and Debugging](#error-handling-and-debugging)
 8. [Deployment](#deployment)
 9. [Module Details](#module-details)
-10. [Contributing](#contributing)
-11. [License](#license)
 
 ---
 
@@ -280,6 +278,7 @@ The project relies on the following key libraries and tools:
 - **Status**: Useful for validating functionality. Should be retained for demonstrations.
 
 ---
+
 
 
 
